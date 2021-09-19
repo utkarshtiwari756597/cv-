@@ -1,0 +1,140 @@
+body {
+  text-shadow: #40514f;
+  margin: 0px;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+.first-container {
+  background-color: #e4f9f5;
+
+  padding-left: 10px;
+  padding-top: 100px;
+  padding-bottom: 0px;
+}
+.middle-container {
+  margin: 100px 0px;
+}
+.bottom-container {
+}
+
+h1 {
+  font-family: monospace;
+  color: #66bfbf;
+  font-size: 3em;
+  padding-top: 100px;
+  /* 16px=1em=100%  */
+  margin: 0 auto 0 auto;
+  padding-bottom: 30px;
+  width: 40%;
+  line-height: 2;
+}
+
+.web {
+  text-decoration: underline;
+}
+.mountain {
+  margin-left: 2px;
+}
+.bottom {
+  position: absolute;
+  left: 300px;
+}
+.top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.ankur {
+  width: 230px;
+}
+.para {
+  font-size: 150%;
+  color: #66bfbf;
+  line-height: 2;
+}
+.skills-row {
+  margin: 0 auto 0 auto;
+  width: 50%;
+  text-align: left;
+}
+h3 {
+  color: #66bfbf;
+  padding-top: 10px;
+}
+h2 {
+  color: #66bfbf;
+  padding-top: 10px;
+  margin-bottom: 40px;
+  text-transform: capitalize;
+  font-size: 2rem;
+}
+.img {
+  width: 25%;
+  float: left;
+}
+#par {
+  margin-bottom: 100px;
+}
+.imgs {
+  width: 25%;
+  position: relative;
+  left: 590px;
+  top: 70px;
+}
+#shift {
+  position: relative;
+  bottom: 200px;
+  width: 85%;
+}
+#shift1 {
+  position: relative;
+  left: 30px;
+}
+#pa {
+}
+hr {
+  border-style: dotted none none;
+  border-width: 8px;
+  border-color: #64c9cf;
+  width: 5%;
+  margin-bottom: 60px;
+}
+p {
+  line-height: 2;
+}
+#intro {
+  margin-bottom: 60px;
+}
+.contact {
+  width: 40%;
+  margin: 40px auto 50px;
+}
+.btn {
+  background: #002366;
+  background-image: -webkit-linear-gradient(top, #002366, #6e85b2);
+  background-image: -moz-linear-gradient(top, #002366, #6e85b2);
+  background-image: -ms-linear-gradient(top, #002366, #6e85b2);
+  background-image: -o-linear-gradient(top, #002366, #6e85b2);
+  background-image: linear-gradient(to bottom, #002366, #6e85b2);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3ce6fc;
+  background-image: -webkit-linear-gradient(top, #3ce6fc, #34d9bd);
+  background-image: -moz-linear-gradient(top, #3ce6fc, #34d9bd);
+  background-image: -ms-linear-gradient(top, #3ce6fc, #34d9bd);
+  background-image: -o-linear-gradient(top, #3ce6fc, #34d9bd);
+  background-image: linear-gradient(to bottom, #3ce6fc, #34d9bd);
+  text-decoration: none;
+}
+.bottom-container {
+  margin-top: 30px;
+}
